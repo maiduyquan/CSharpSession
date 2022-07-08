@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet11\obj\Debug\net6.0\Snippet11.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet11\obj\Debug\net6.0\Snippet11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet11\obj\Debug\net6.0\Snippet11.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet11\obj\Debug\net6.0\Snippet11.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\Session06\Snippet11\obj\Debug\net6.0\Snippet11.csproj.CoreCompileInputs.cache
