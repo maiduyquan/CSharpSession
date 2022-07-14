@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\APCexample\APCexample\obj\Debug\net6.0\APCexample.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\APCexample\APCexample\obj\Debug\net6.0\APCexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\APCexample\APCexample\obj\Debug\net6.0\APCexample.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\APCexample\APCexample\obj\Debug\net6.0\APCexample.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\DEMO\C#\New folder\APCexample\APCexample\obj\Debug\net6.0\APCexample.csproj.CoreCompileInputs.cache
